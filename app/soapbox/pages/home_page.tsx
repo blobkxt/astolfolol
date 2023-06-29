@@ -87,5 +87,10 @@ const HomePage: React.FC = ({ children }) => {
     </>
   );
 };
-
+<img src="https://media.discordapp.net/attachments/1116404249887264858/1124009944782471189/astolof.png" 
+	 style="object-fit:contain; 
+	        position:relative; left:500px; top:100px;
+            width:900px;
+            position: relative
+            left: 300px">
 export default HomePage;
